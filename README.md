@@ -1,5 +1,5 @@
 # Diego Felipe López
-### Tecnólogo en Infraestructura TIC | Especialista en Ciberseguridad en formación 🛡️
+### Tecnólogo en Infraestructura TIC | Especialista en Ciberseguridad 🛡️
 
 Soy un profesional de TI con sólida experiencia en soporte técnico, resolución de problemas de hardware y administración de sistemas. Actualmente estoy pivoteando mi carrera hacia la **Ciberseguridad**, con el objetivo de convertirme en **Analista SOC**, aplicando mi capacidad de diagnóstico técnico para aprender a evaluar vulnerabilidades y proteger infraestructuras de red.
 
@@ -10,7 +10,7 @@ Soy un profesional de TI con sólida experiencia en soporte técnico, resolució
 * 🏗️ Diseñando e implementando un laboratorio empresarial: Infraestructura virtualizada con **Proxmox**, firewall **pfSense** y servidores **Ubuntu** para estudiar monitorización de red en entornos reales.
 
 ## 🛠️ Habilidades Técnicas y en Desarrollo
-* **Seguridad (En formación):** Fundamentos teóricos de Pentesting, monitorización y defensa de redes.
+* **Seguridad (En formación):** Pentesting, monitorización y defensa de redes.
 * **Sistemas Operativos:** Linux (Ubuntu/Debian) y Windows Server.
 * **Redes e Infraestructura:** Soporte técnico, protocolos de red, configuración de Firewalls y virtualización.
 * **Automatización:** Bash Scripting (Nivel Junior).
