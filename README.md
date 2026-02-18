@@ -16,8 +16,7 @@ Soy un profesional de TI con sólida experiencia en soporte técnico, resolució
 * **Automatización:** Bash Scripting (Nivel Junior).
 
 ## 📂 Mis Proyectos
-*(Aquí irán los enlaces a tus repositorios a medida que los crees)*
-* 📜 **[Scripts y Automatización](enlace):** Herramientas y laboratorios desarrollados en Bash mientras aprendo.
+* 📜 **[Scripts y Automatización](enlace):** Herramientas y laboratorios desarrollados en Bash, PowerShell y Python.
 * 🚩 **[CTF Writeups](enlace):** Mis notas y resolución paso a paso de máquinas de práctica.
 
 ## 📫 Conecta conmigo
