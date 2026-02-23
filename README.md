@@ -20,4 +20,4 @@ Soy un profesional de TI con sólida experiencia en soporte técnico, resolució
 * 🚩 **[CTF Writeups](enlace):** Documentación y resolución paso a paso de máquinas de práctica.
 
 ## 📫 Conecta conmigo
-* **LinkedIn:** [www.linkedin.com/in/diego-felipe-lopez-]
+* **LinkedIn:** www.linkedin.com/in/diego-felipe-lopez-
