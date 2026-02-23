@@ -16,8 +16,8 @@ Soy un profesional de TI con sólida experiencia en soporte técnico, resolució
 * **Automatización:** Bash Scripting, PowerShell, Python.
 
 ## 📂 Mis Proyectos
-* 📜 **[Scripts y Automatización](enlace):** Herramientas y laboratorios desarrollados en Bash, PowerShell y Python.
-* 🚩 **[CTF Writeups](enlace):** Documentación y resolución paso a paso de máquinas de práctica.
+* 📜 **[Scripts-y-Automatizacion](enlace):** Herramientas y laboratorios desarrollados en Bash, PowerShell y Python.
+* 🚩 **[CTFs-Writeups](enlace):** Documentación y resolución paso a paso de máquinas de práctica.
 
 ## 📫 Conecta conmigo
 * **LinkedIn:** www.linkedin.com/in/diego-felipe-lopez-
