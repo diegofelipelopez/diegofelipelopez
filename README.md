@@ -7,7 +7,7 @@ Soy un profesional de TI con sólida experiencia en soporte técnico, resolució
 * 🎓 Cursando Máster en Ciberseguridad y en preparación para la certificación CompTIA Security+.
 * ⚔️ **Seguridad Ofensiva:** Prácticas activas de Pentesting y Escalada de Privilegios en entornos controlados (CTFs).
 * 🐧 **Administración y Scripting:** Gestión de servidores Linux y desarrollo de scripts de automatización.
-* 🏗️ **Infraestructura y Defensa:** Diseño e implementación de un laboratorio empresarial virtualizado con **Proxmox**, firewall **pfSense** y servidores **Ubuntu** para monitorización de red.
+* 🏗️ **Infraestructura y Defensa:** Diseño e implementación de un laboratorio empresarial virtualizado con **Proxmox**, firewall **OPNSense** y servidores **Ubuntu** para monitorización de red.
 
 ## 🛠️ Habilidades Técnicas y Stack
 * **Seguridad Ofensiva y Defensiva:** Pentesting, monitorización y defensa de redes.
