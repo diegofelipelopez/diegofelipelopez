@@ -7,8 +7,8 @@ Soy un profesional de TI con experiencia en soporte técnico y resolución de pr
 ## 🚀 Iniciativas Actuales
 
 * 🎓 **Formación Académica:** Cursando Máster en Ciberseguridad y en preparación para la certificación CompTIA Security+.
-* 🏗️ Arquitectura de Red y Monitoreo: Despliegue de un entorno físico virtualizado con Proxmox, firewall OPNsense y servidores Ubuntu para prácticas de enrutamiento y defensa.
-* ⚔️ **Prácticas CTF:** Resolución de máquinas en CyberDefenders y DockerLabs.
+* 🏗️ Arquitectura de Red y Monitoreo: Despliegue de un entorno físico virtualizado con Proxmox, firewall OPNsense y servidores Ubuntu para monitoreo y defensa.
+* ⚔️ **Prácticas CTF:** Resolución de máquinas en CyberDefenders, DockerLabs, etc.
 * 🐧 **Scripting:** Creando herramientas de automatización en Bash e introduciéndome en PowerShell.
 
 ## 📂 Mis Proyectos
