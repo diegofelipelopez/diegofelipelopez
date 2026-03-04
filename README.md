@@ -2,7 +2,7 @@
 
 **Tecnólogo en Infraestructura TIC | Enfoque en Ciberseguridad y Redes 🛡️**
 
-Soy un profesional de TI con experiencia en soporte técnico y resolución de problemas de hardware. Actualmente estoy en transición activa hacia la **Ciberseguridad**, con el objetivo de desarrollarme como **Analista SOC (L1)**. Soy un apasionado por el aprendizaje práctico: construyo mis propios laboratorios, analizo vulnerabilidades en entornos controlados y documento meticulosamente mi proceso.
+Soy un profesional de TI con experiencia en soporte técnico y resolución de problemas de hardware. Actualmente estoy en transición activa hacia la **Ciberseguridad**, con el objetivo de desarrollarme como **Analista de Ciberseguridad**. Soy un apasionado por el aprendizaje práctico: construyo mis propios laboratorios, analizo vulnerabilidades en entornos controlados y documento meticulosamente mi proceso.
 
 ## 🚀 Iniciativas Actuales
 
