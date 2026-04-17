@@ -13,6 +13,7 @@ Soy un profesional de TI con experiencia en soporte técnico y resolución de pr
 
 ## 📂 Mis Proyectos
 
+* 📂 Mis Proyectos
 * 📜 **[Scripts-y-Automatizacion](https://github.com/diegofelipelopez/Scripts-y-Automatizacion):** Herramientas desarrolladas para la administración de sistemas y diagnóstico.
 * 🚩 **[CTFs-Writeups](https://github.com/diegofelipelopez/CTFs-Writeups):** Documentación y resolución paso a paso de máquinas de práctica.
 
