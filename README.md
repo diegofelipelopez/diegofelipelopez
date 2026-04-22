@@ -13,7 +13,7 @@ Soy un profesional de TI con experiencia en soporte técnico y resolución de pr
 
 ## 📂 Mis Proyectos
 
-* 🛠️ **[Proyectos-Infraestructura](https://github.com/diegofelipelopez/Proyectos-Infraestructura):** Proyectos personales y laborales de infraestructura IT.
+* 🛠️ **[Proyectos-Infraestructura](https://github.com/diegofelipelopez/Proyectos-Infraestructura):** Proyectos personales y laborales de infraestructura IT documentados y explicados.
 * 📜 **[Scripts-y-Automatizacion](https://github.com/diegofelipelopez/Scripts-y-Automatizacion):** Herramientas desarrolladas para la administración de sistemas, diagnóstico y monitoreo.
 * 🚩 **[CTFs-Writeups](https://github.com/diegofelipelopez/CTFs-Writeups):** Documentación y resolución paso a paso de máquinas de práctica.
 
