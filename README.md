@@ -16,9 +16,10 @@ Profesional técnico enfocado en Ciberseguridad. Aplico mi experiencia administr
 ### 📂 Mis Repositorios
 Aquí encontrarás la documentación de mis proyectos, resoluciones de CTFs y herramientas de automatización.
 
-- 🛠️ [**Proyectos-Infraestructura**](https://github.com/diegofelipelopez/Proyectos-Infraestructura): Proyectos técnicos de despliegue, hardening y administración TI aplicados en entornos de producción y en homelabs.
-- 📜 [**Scripts-y-Automatizacion**](https://github.com/diegofelipelopez/Scripts-y-Automatizacion): Herramientas en Bash, PowerShell y Python desarrolladas para la administración de sistemas, diagnóstico y monitoreo.
-- 🚩 [**CTFs-Writeups**](https://github.com/diegofelipelopez/CTFs-Writeups): Documentación y resolución paso a paso de máquinas de práctica y retos de seguridad ofensiva, defensiva y OSINT.
+- 🛠️ [**IT-Security-Labs**](https://github.com/diegofelipelopez/IT-Security-Labs): Despliegue y administración de infraestructuras empresariales simuladas. Configuraciones de Proxmox, firewalls OPNsense, segmentación de redes y monitoreo SIEM.
+- 📜 [**SecOps-Automatizacion**](https://github.com/diegofelipelopez/SecOps-Automatizacion): Desarrollo de scripts y utilidades en Bash, PowerShell y Python orientados a la automatización de tareas TI, hardening de sistemas y respuesta a incidentes.
+- 🚩 [**Security-CTFs**](https://github.com/diegofelipelopez/Security-CTFs): Resolución detallada de máquinas CTF y retos OSINT. Documentación técnica de pruebas de penetración, explotación y estrategias de mitigación.
+- 🐛 [**Bug-Bounty-Writeups**](https://github.com/diegofelipelopez/Bug-Bounty-Writeups): Reportes técnicos y divulgación responsable de vulnerabilidades (Responsible Disclosure). Análisis de impacto, explotación y mitigación en entornos reales.
 
 ---
 
