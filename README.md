@@ -1,5 +1,5 @@
 # Diego Felipe López
-### Especialista en Ciberseguridad & Infraestructura TI 🛡️
+### Analista en Ciberseguridad & Infraestructura TI 🛡️
 
 Profesional técnico enfocado en Ciberseguridad. Aplico mi experiencia administrando infraestructura real para construir entornos seguros, automatizar procesos de respuesta a incidentes y explotar vulnerabilidades en laboratorios controlados.
 
