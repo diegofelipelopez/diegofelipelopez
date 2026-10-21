@@ -5,12 +5,11 @@ Profesional técnico enfocado en **Administración de Seguridad, Respuesta a Inc
 
 ---
 
-### 🛠️ Entornos de Laboratorio y Arquitectura
-Diseño, despliegue y administración de infraestructuras empresariales simuladas para pruebas de ataque y defensa:
-- **Virtualización:** Servidor físico gestionado con Proxmox VE.
-- **Defensa de Red (Blue Team):** Despliegue de firewalls OPNsense y segmentación de red.
-- **Monitoreo y SIEM:** Implementación de Wazuh para correlación de eventos y detección de intrusos.
-- **Sistemas Operativos:** Administración de Windows Server y distribuciones Linux (Debian/Ubuntu).
+### 🚀 Proyectos Activos de Ciberseguridad
+
+- 🏗️ **HomeLab SOC & Arquitectura Segura:** Construcción y administración de un laboratorio empresarial en servidor físico HP (Proxmox VE). Integración de OPNsense (Firewall/IDS) y Wazuh (SIEM) para emulación de ataques, monitoreo continuo y análisis de logs.
+- 🛠️ **Desarrollo de Herramientas (Blue Team):** Creación de utilidades en PowerShell y Bash para *Triage* e incident response, enfocadas en la recolección de evidencias, automatización de escaneos y detección de malware en endpoints.
+- 🐛 **Bug Bounty & Vulnerability Research:** Búsqueda activa de vulnerabilidades en programas de recompensa. Redacción de reportes técnicos (Write-ups) bajo divulgación responsable, detallando metodologías de hallazgo, impacto y mitigación.
 
 ---
 
